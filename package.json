@@ -1,0 +1,8 @@
+{
+  "name": "untappd-import",
+  "version": "1.0.0",
+  "description": "Node package to import checkins to Untappd",
+  "main": "index.js",
+  "author": "mattfurtado",
+  "license": "MIT"
+}
